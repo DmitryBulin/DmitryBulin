@@ -2,6 +2,8 @@
 
 My name is Dmitry and I'm a junior Unity developer currently based in Saint Petersburg.
 
+You can learn more about my experience in my [CV](https://drive.google.com/file/d/1xMmAkizimRvKPQSs2fvZECwbcn5vGgK0/view?usp=sharing)
+
 <div id="badges">
 	<a href="https://linkedin.com/in/dmitry-bulin">
     	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,4 +28,4 @@ Currently, studying C# and Unity is my primary activity during my spare time.
 
 ### :building_construction:	Current project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmitryBulin&repo=Froguelite&theme=tokyonight)](https://github.com/DmitryBulin/Froguelite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmitryBulin&repo=OPenSystems&theme=tokyonight)](https://github.com/DmitryBulin/OPenSystems)
