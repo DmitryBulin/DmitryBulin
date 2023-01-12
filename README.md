@@ -2,12 +2,9 @@
 
 My name is Dmitry and I'm a junior Unity developer currently based in Saint Petersburg.
 
-You can learn more about my experience in my [CV](https://drive.google.com/file/d/1xMmAkizimRvKPQSs2fvZECwbcn5vGgK0/view?usp=sharing)
+You can learn more about my experience in my [CV](https://drive.google.com/file/d/13umxUsfrUUWB6Bipn8IWOWIZnuuCcO4K/view?usp=share_link)
 
 <div id="badges">
-	<a href="https://linkedin.com/in/dmitry-bulin">
-    	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-	</a>
     <a href="https://t.me/osayroni">
     	<img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   	</a>
