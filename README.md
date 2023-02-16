@@ -6,7 +6,7 @@ You can learn more about my experience in my [CV](https://drive.google.com/file/
 
 <div id="badges">
     <a href="https://t.me/osayroni">
-    	<img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    	<img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   	</a>
 </div>
 
@@ -22,7 +22,3 @@ Currently, studying C# and Unity is my primary activity during my spare time.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryBulin&show_icons=true&theme=tokyonight&line_height=27)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBulin&theme=tokyonight&langs_count=3)](https://github.com/DmitryBulin/github-readme-stats)
-
-### :building_construction:	Current project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmitryBulin&repo=OPenSystems&theme=tokyonight)](https://github.com/DmitryBulin/OPenSystems)
