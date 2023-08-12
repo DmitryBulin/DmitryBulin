@@ -2,7 +2,7 @@
 
 My name is Dmitry and I'm a .Net developer.
 
-You can learn more about my experience in my [CV]()
+You can learn more about my experience in my [CV](https://drive.google.com/file/d/1GtnHGO54n9fzWh5oOUX0v2f84e-KkUIO/view?usp=sharing)
 
 <div id="badges">
     <a href="https://t.me/osayroni">
