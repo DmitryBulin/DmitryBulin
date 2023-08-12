@@ -1,8 +1,8 @@
 # 👋 Hello everyone
 
-My name is Dmitry and I'm a junior Unity developer currently based in Saint Petersburg.
+My name is Dmitry and I'm a .Net developer.
 
-You can learn more about my experience in my [CV](https://drive.google.com/file/d/13umxUsfrUUWB6Bipn8IWOWIZnuuCcO4K/view?usp=share_link)
+You can learn more about my experience in my [CV]()
 
 <div id="badges">
     <a href="https://t.me/osayroni">
@@ -10,15 +10,17 @@ You can learn more about my experience in my [CV](https://drive.google.com/file/
   	</a>
 </div>
 
-## 🎮 Game developer
+## Programming
 
-I've been self-studying how to make games for several years; and specialize in Unity development
+* Currently learning backend side of developing on ASP.Net. 
+* Have on-hand experience with pure SQL and PostgreSQL.
+* Regulary attend SpbDotNet mitups to learn from the professionals.
 
-I'm pattionate about designing, structurising, and improving code behind gameplay mechanics and technical aspects of the system, using Unity with C#
+## Testing
 
-## 💻 Programming
-
-Currently, studying C# and Unity is my primary activity during my spare time.
+* Most interested in backend and API testing.
+* Have experience in testing REST handlers via Postman, Charles. 
+* Implemented Swagger in university projects to test out service functionality.  
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryBulin&show_icons=true&theme=tokyonight&line_height=27)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBulin&theme=tokyonight&langs_count=3)](https://github.com/DmitryBulin/github-readme-stats)
